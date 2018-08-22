@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Idade {
 
 	//ఐ ఫిక్స్డ్ ఠిస్ మిస్సై ప్రోగ్రాం
-	
+	// Vai Corinthians!!
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -23,7 +23,7 @@ public class Idade {
 			e.printStackTrace();
 			//System.out.println(e.getLocalizedMessage());
 		} //try
-		
+		System.out.println("Vai corinthians!!");
 		scanner.close();
 	}
 
